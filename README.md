@@ -17,3 +17,4 @@ Features :
 -- sqft_basement : the area of the basement in Square Feet
 - yr_built : the year in which the house has been built
 - yr_renovated :  the year in which the house has been renovated
+![house-prices-scaled](https://user-images.githubusercontent.com/60976246/208909162-70f846ce-9d36-4ad8-a73d-2c7a0e022040.jpg)
