@@ -1,7 +1,7 @@
 # Housing-Price-Prediction
-predicting the house price based on important features related to the houses like:
 ![house_and_money_in_stacks](https://user-images.githubusercontent.com/60976246/208909373-ce235335-e2ba-4d56-88dc-19cfb525ef15.jpg)
 # Features :
+predicting the house price based on important features related to the houses like:
 - id : house number
 - date : It includes homes sold between May 2014 and May 2015.
 - price : the target label which is hte price of the house
