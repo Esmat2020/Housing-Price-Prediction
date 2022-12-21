@@ -1,7 +1,7 @@
 # Housing-Price-Prediction
 predicting the house price based on important features related to the houses like:
 Features :
-- id : house id 
+- id : house number
 - date : It includes homes sold between May 2014 and May 2015.
 - price : the target label which is hte price of the house
 - bedrooms : number of bedrooms
