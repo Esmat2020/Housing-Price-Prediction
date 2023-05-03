@@ -1,4 +1,7 @@
 # Housing-Price-Prediction
+# Introduction :
+Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
+
 ![house_and_money_in_stacks](https://user-images.githubusercontent.com/60976246/208909373-ce235335-e2ba-4d56-88dc-19cfb525ef15.jpg)
 # Features :
 predicting the house price based on important features related to the houses like:
